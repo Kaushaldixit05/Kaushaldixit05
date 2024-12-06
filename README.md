@@ -35,7 +35,7 @@ Developed a Chess AI using the MiniMax Algorithm and Alpha-Beta pruning for high
 
 <p align="center">
   <a href="https://github.com/KaushalDixit05">
-    <img src="https://skillicons.dev/icons?i=Problem Solving , Coding ,git,c,java,python,js,html,css,react,mongodb,tensorflow,linux,heroku,githubactions,github,express,flask,mysql,pytorch,scikitlearn,flutter,Dart,Machine Learning , Deep Learning" />
+    <img src="https://skillicons.dev/icons?i=git,c,java,python,js,html,css,react,mongodb,tensorflow,linux,heroku,githubactions,github,express,flask,mysql,pytorch,scikitlearn,flutter" />
   </a>
 </p>
 
