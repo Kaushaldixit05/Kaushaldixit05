@@ -4,19 +4,19 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=KaushalDixit05&color=brightgreen)
 
-🔭 **I’m currently working on**: [Cross-Lingual Information Retrieval](https://github.com/Kaushaldixit05/PensionPath) 
+🔭 **I’m currently working on**: [PensionPath](https://github.com/Kaushaldixit05/PensionPath) 
 
 🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
 
-👯 **I’m looking to collaborate on**: AI/ML/DL projects.
+👯 **I’m looking to collaborate on**: AI/ML/DL , Flutter , Developement projects.
 
 🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/Kaushaldixit05)
 
-🌐 Check out my website: [Sharvari's Portfolio](https://kaushaldixitportfolio.netlify.app/)
+🌐 Check out my website: [Kaushal Dixit's Portfolio](https://kaushaldixitportfolio.netlify.app/)
 
 🤝 **Can help you with**: Machine Learning and Deep Learning.
 
-⚡ **Fun fact**: I love coding and storytelling! 📚
+⚡ **Fun fact**: I Coder cum Cricketer 📚
 
 
 ---
